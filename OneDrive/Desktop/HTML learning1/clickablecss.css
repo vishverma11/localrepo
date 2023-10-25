@@ -1,0 +1,17 @@
+#firstul{list-style-type: none;
+margin: 0;
+padding: 0;}
+
+#firstul li{
+    float:left;
+    padding: 10px;
+    background: orange;
+    text-align: center;
+    margin-left: 5px;
+}
+
+#firstul li :hover{
+    background: red;
+    opacity: 50;
+    color:white;
+}
